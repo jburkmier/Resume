@@ -1,0 +1,107 @@
+html{
+    background-color: #f7f4f3;
+    font-family: raleway, sans-serif;
+}
+
+h1{
+    background-color: #dfbbc4;
+    text-align: center;
+    border: 10px solid #c7d7eb;
+    padding: 5px;
+    font-family: raleway, sans-serif;
+    font-weight: 600;
+}
+
+h2{
+    text-align:center;
+    font-family: raleway, sans-serif;
+    font-weight: 550;
+}
+
+h3{
+    font-family: raleway, sans-serif;
+    font-weight: 400;
+}
+
+#JennyPic{
+    border: 10px solid  #c7d7eb;
+    width: 50%;
+    margin-left: 25%;
+
+}
+
+#education{
+    background-color: #c7d7eb;
+    border: 5px solid #dfbbc4;
+    margin: 5px 0px;
+    padding: 7px;
+}
+
+#summary{
+    background-color: #c7d7eb;
+    border: 5px solid #dfbbc4;
+    margin: 5px 0px;
+    padding: 7px;
+}
+
+#experience{
+    background-color: #c7d7eb;
+    border: 5px solid #dfbbc4;
+    margin: 5px 0px;
+    padding: 7px;
+}
+
+#hard{
+    background-color: #c7d7eb;
+    border: 5px solid #dfbbc4;
+    margin: 5px 0px;
+    padding: 7px;
+}
+
+#soft{
+    background-color: #c7d7eb;
+    border: 5px solid #dfbbc4;
+    margin: 5px 0px;
+    padding: 7px;
+}
+
+#community{
+    background-color: #c7d7eb;
+    border: 5px solid #dfbbc4;
+    margin: 5px 0px;
+    padding: 7px;
+}
+
+#project{
+    background-color: #dfbbc4;
+    text-align: center;
+    border: 5px solid #c7d7eb;
+    margin: 5px 0px;
+    padding: 10px;
+}
+
+#contact{
+    background-color: #dfbbc4;
+    text-align: center;
+    border: 5px solid #c7d7eb;
+    margin: 5px 0px;
+    padding: 10px;
+}
+
+.quicksand {
+font-family: "Quicksand", sans-serif;
+font-optical-sizing: auto;
+font-weight: 300;
+font-style: light;
+}
+
+.raleway-uniquifier {
+font-family: "Raleway", sans-serif;
+font-optical-sizing: auto;
+font-weight: 100;
+font-style: normal;
+}
+
+#contactme{
+
+}
